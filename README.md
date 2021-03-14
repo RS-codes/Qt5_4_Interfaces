@@ -1,3 +1,4 @@
 # Qt5_4_Interfaces
 
-Interfaces basics added
+Interfaces basics discussed
+
